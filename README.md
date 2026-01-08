@@ -1,10 +1,11 @@
 ## Hi, I'm Zoe 👋
 
-I'm currently studying Computer Science (B.Sc) at AKAD University.
+Computer Science student (B.Sc) at AKAD University with a strong focus on
+building **small but well-structured web projects** to deepen my understanding
+of how software actually works.
 
-- 💻 I have experience with **HTML**, **CSS** and **JavaScript**
-- 🔐 Interested in **Cybersecurity**, **Software Development**, **Automation** and **Data**
-- 🛠️ Exploring GitHub by building small projects and building clean and structured code
-- 🎮 I love **gaming** and **coding**
-- 🐈 I have **two cats**
+- 💻 Working mainly with **HTML, CSS, and JavaScript**, focusing on DOM logic, clean structure, and readability
+- 🔐 Interested in **Cybersecurity**, **Automation**, and how systems fail under real conditions
+- 🧠 Using GitHub as a learning lab: small projects, experiments, and refactoring
+- 🎮 Gaming as a hobby, mostly because it’s a great way to understand systems, mechanics, and edge cases
 - 📍 Based in Germany
